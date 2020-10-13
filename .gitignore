@@ -1,8 +1,8 @@
 # Ignore everything in this directory
 *
 # Except this file
-!.gitignore
-!README.md
-!.bashrc
-!.vimrc
-!.xinputrc
+!/.gitignore
+!/README.md
+!/.bashrc
+!/.vimrc
+!/.xinputrc
